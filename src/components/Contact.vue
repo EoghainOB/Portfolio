@@ -6,7 +6,7 @@
         <div class="contactDetails">
           <div class="link" id="github">
             <div>
-              <img src="/logos/github.svg" alt="GitHub" />
+              <img src="/github.svg" alt="GitHub" />
             </div>
             <div>
               <a href="https://www.github.com/EoghainOB"
@@ -16,7 +16,7 @@
           </div>
           <div class="link" id="linkedin">
             <div>
-              <img src="/logos/linkedin.svg" alt="LinkedIn" />
+              <img src="/linkedin.svg" alt="LinkedIn" />
             </div>
             <div>
               <a href="https://www.linkedin.com/in/eoghain-o-briain"

@@ -6,40 +6,40 @@
           <h1>Stack</h1>
         </div>
         <div class="logoDiv">
-          <img src="/logos/javascript.svg" alt="JavaScript" />
+          <img src="/javascript.svg" alt="JavaScript" />
         </div>
         <div class="logoDiv">
-          <img src="/logos/typescript.svg" alt="TypeScript" />
+          <img src="/typescript.svg" alt="TypeScript" />
         </div>
         <div class="logoDiv">
-          <img src="/logos/html5.svg" alt="HTML5" />
+          <img src="/html5.svg" alt="HTML5" />
         </div>
         <div class="logoDiv">
-          <img src="/logos/css3.svg" alt="CSS3" />
+          <img src="/css3.svg" alt="CSS3" />
         </div>
         <div class="logoDiv">
-          <img src="/logos/nodejs.svg" alt="NodeJS" />
+          <img src="/nodejs.svg" alt="NodeJS" />
         </div>
         <div class="logoDiv">
-          <img src="/logos/react.svg" alt="React" />
+          <img src="/react.svg" alt="React" />
         </div>
         <div class="logoDiv">
-          <img src="/logos/vue.svg" alt="VueJS" />
+          <img src="/vue.svg" alt="VueJS" />
         </div>
         <div class="logoDiv">
-          <img src="/logos/angular.svg" alt="Angular" />
+          <img src="/angular.svg" alt="Angular" />
         </div>
         <div class="logoDiv">
-          <img src="/logos/express.svg" alt="Express" />
+          <img src="/express.svg" alt="Express" />
         </div>
         <div class="logoDiv">
-          <img src="/logos/mongodb.svg" alt="MongoDB" />
+          <img src="/mongodb.svg" alt="MongoDB" />
         </div>
         <div class="logoDiv">
-          <img src="/logos/postgres.svg" alt="PostgreSQL" />
+          <img src="/postgres.svg" alt="PostgreSQL" />
         </div>
         <div class="logoDiv">
-          <img src="/logos/figma.svg" alt="Figma" />
+          <img src="/figma.svg" alt="Figma" />
         </div>
       </div>
     </div>

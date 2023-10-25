@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: "Maths test 1",
-    image: "/images/projects/mathstest.jpeg",
+    image: "/mathstest.jpeg",
     description:
       "For this project I created a simple application that allowed my young daughter to be able to practice maths. The user can select the type of sum they want to try, addition, subtraction, division or multiplication, as well as the level of difficulty from easy, medium and hard. When they click the start button they are presented with a sum. The user enters the answer into the field and clicks the 'Submit Answer' button. If it is correct the outline will light up green and display the next sum, if it is incorrect it will light up red and the sum will remain.",
     workingUrl: "",
@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: "Maths test 2",
-    image: "/images/projects/mathstest.jpeg",
+    image: "/mathstest.jpeg",
     description:
       "For this project I created a simple application that allowed my young daughter to be able to practice maths. The user can select the type of sum they want to try, addition, subtraction, division or multiplication, as well as the level of difficulty from easy, medium and hard. When they click the start button they are presented with a sum. The user enters the answer into the field and clicks the 'Submit Answer' button. If it is correct the outline will light up green and display the next sum, if it is incorrect it will light up red and the sum will remain.",
     workingUrl: "",
@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: "Maths test 3",
-    image: "/images/projects/mathstest.jpeg",
+    image: "/mathstest.jpeg",
     description:
       "For this project I created a simple application that allowed my young daughter to be able to practice maths. The user can select the type of sum they want to try, addition, subtraction, division or multiplication, as well as the level of difficulty from easy, medium and hard. When they click the start button they are presented with a sum. The user enters the answer into the field and clicks the 'Submit Answer' button. If it is correct the outline will light up green and display the next sum, if it is incorrect it will light up red and the sum will remain.",
     workingUrl: "",
@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     title: "Maths test 3",
-    image: "/images/projects/mathstest.jpeg",
+    image: "/mathstest.jpeg",
     description:
       "For this project I created a simple application that allowed my young daughter to be able to practice maths. The user can select the type of sum they want to try, addition, subtraction, division or multiplication, as well as the level of difficulty from easy, medium and hard. When they click the start button they are presented with a sum. The user enters the answer into the field and clicks the 'Submit Answer' button. If it is correct the outline will light up green and display the next sum, if it is incorrect it will light up red and the sum will remain.",
     workingUrl: "",
@@ -37,7 +37,7 @@ export const projects = [
   },
   {
     title: "Maths test 3",
-    image: "/images/projects/mathstest.jpeg",
+    image: "/mathstest.jpeg",
     description:
       "For this project I created a simple application that allowed my young daughter to be able to practice maths. The user can select the type of sum they want to try, addition, subtraction, division or multiplication, as well as the level of difficulty from easy, medium and hard. When they click the start button they are presented with a sum. The user enters the answer into the field and clicks the 'Submit Answer' button. If it is correct the outline will light up green and display the next sum, if it is incorrect it will light up red and the sum will remain.",
     workingUrl: "",
@@ -46,7 +46,7 @@ export const projects = [
   },
   {
     title: "Maths test 3",
-    image: "/images/projects/mathstest.jpeg",
+    image: "/mathstest.jpeg",
     description:
       "For this project I created a simple application that allowed my young daughter to be able to practice maths. The user can select the type of sum they want to try, addition, subtraction, division or multiplication, as well as the level of difficulty from easy, medium and hard. When they click the start button they are presented with a sum. The user enters the answer into the field and clicks the 'Submit Answer' button. If it is correct the outline will light up green and display the next sum, if it is incorrect it will light up red and the sum will remain.",
     workingUrl: "",
