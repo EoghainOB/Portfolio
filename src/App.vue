@@ -1,5 +1,7 @@
 <template>
-  <HeaderMenu />
+  <header>
+    <HeaderMenu />
+  </header>
   <div class="content">
     <HomeView />
   </div>
@@ -26,6 +28,10 @@ body {
   margin: 0;
   padding: 0;
   background-color: #2f2f2f;
+}
+
+header {
+  background-color: rgb(0, 0, 0);
 }
 
 h1,
