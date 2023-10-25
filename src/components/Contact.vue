@@ -6,15 +6,23 @@
         <div class="contactDetails">
           <div class="link" id="github">
             <div>
-              <img src="/src/components/logos/github.svg" alt="GitHub" />
+              <img src="/logos/github.svg" alt="GitHub" />
             </div>
-            <div><p>github.com/EoghainOB</p></div>
+            <div>
+              <a href="https://www.github.com/EoghainOB"
+                ><p>github.com/EoghainOB</p></a
+              >
+            </div>
           </div>
           <div class="link" id="linkedin">
             <div>
-              <img src="/src/components/logos/linkedin.svg" alt="LinkedIn" />
+              <img src="/logos/linkedin.svg" alt="LinkedIn" />
             </div>
-            <div><p>linkedin.com/in/eoghain-o-briain</p></div>
+            <div>
+              <a href="https://www.linkedin.com/in/eoghain-o-briain"
+                ><p>linkedin.com/in/eoghain-o-briain</p></a
+              >
+            </div>
           </div>
         </div>
       </div>

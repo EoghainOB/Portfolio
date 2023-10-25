@@ -15,7 +15,7 @@
             </div>
             <div class="stack">
               <div v-for="tech in project.stack" :key="tech">
-                <img :src="`src/components/logos/${tech}.svg`" :alt="tech" />
+                <img :src="`/logos/${tech}.svg`" :alt="tech" />
               </div>
             </div>
             <div class="projectLinks">

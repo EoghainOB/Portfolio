@@ -6,40 +6,40 @@
           <h1>Stack</h1>
         </div>
         <div class="logoDiv">
-          <img src="../components/logos/javascript.svg" alt="JavaScript" />
+          <img src="/logos/javascript.svg" alt="JavaScript" />
         </div>
         <div class="logoDiv">
-          <img src="../components/logos/typescript.svg" alt="TypeScript" />
+          <img src="/logos/typescript.svg" alt="TypeScript" />
         </div>
         <div class="logoDiv">
-          <img src="../components/logos/html5.svg" alt="HTML5" />
+          <img src="/logos/html5.svg" alt="HTML5" />
         </div>
         <div class="logoDiv">
-          <img src="../components/logos/css3.svg" alt="CSS3" />
+          <img src="/logos/css3.svg" alt="CSS3" />
         </div>
         <div class="logoDiv">
-          <img src="../components/logos/nodejs.svg" alt="NodeJS" />
+          <img src="/logos/nodejs.svg" alt="NodeJS" />
         </div>
         <div class="logoDiv">
-          <img src="../components/logos/react.svg" alt="React" />
+          <img src="/logos/react.svg" alt="React" />
         </div>
         <div class="logoDiv">
-          <img src="../components/logos/vue.svg" alt="VueJS" />
+          <img src="/logos/vue.svg" alt="VueJS" />
         </div>
         <div class="logoDiv">
-          <img src="../components/logos/angular.svg" alt="Angular" />
+          <img src="/logos/angular.svg" alt="Angular" />
         </div>
         <div class="logoDiv">
-          <img src="../components/logos/express.svg" alt="Express" />
+          <img src="/logos/express.svg" alt="Express" />
         </div>
         <div class="logoDiv">
-          <img src="../components/logos/mongodb.svg" alt="MongoDB" />
+          <img src="/logos/mongodb.svg" alt="MongoDB" />
         </div>
         <div class="logoDiv">
-          <img src="../components/logos/postgres.svg" alt="PostgreSQL" />
+          <img src="/logos/postgres.svg" alt="PostgreSQL" />
         </div>
         <div class="logoDiv">
-          <img src="../components/logos/figma.svg" alt="Figma" />
+          <img src="/logos/figma.svg" alt="Figma" />
         </div>
       </div>
     </div>
