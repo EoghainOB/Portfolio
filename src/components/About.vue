@@ -1,7 +1,7 @@
 <template>
   <div class="profileBlock">
     <div class="profileImage">
-      <img src="../components/images/110406695.jpeg" alt="Eoghain" />
+      <img src="/src/components/images/110406695.jpeg" alt="Eoghain" />
     </div>
     <div class="profileText">
       <h2>
