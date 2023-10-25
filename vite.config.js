@@ -8,7 +8,8 @@ export default defineConfig({
   plugins: [vue(), vueJsx()],
   resolve: {
     alias: {
-      "@": fileURLToPath(new URL("./src", import.meta.url)),
+      "@": path.resolve(__dirname, "./src"),
+      // "@": fileURLToPath(new URL("./src", import.meta.url)),
       vue: "vue/dist/vue.esm-bundler.js",
     },
   },
