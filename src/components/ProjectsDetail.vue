@@ -15,21 +15,21 @@
             </div>
             <div class="stack">
               <div v-for="tech in project.stack" :key="tech">
-                <img :src="`src/components/logos/${tech}.svg`" :alt="tech" />
+                <img :src="`/src/components/logos/${tech}.svg`" :alt="tech" />
               </div>
             </div>
             <div class="projectLinks">
               <p v-if="project.workingUrl">
                 <b
                   ><a :href="project.workingUrl" target="_blank"
-                    >View working project</a
+                    >> View working project</a
                   ></b
                 >
               </p>
               <p v-if="project.repoURL">
                 <b
                   ><a :href="project.repoURL" target="_blank"
-                    >GitHub repo page</a
+                    >> GitHub repo page</a
                   ></b
                 >
               </p>

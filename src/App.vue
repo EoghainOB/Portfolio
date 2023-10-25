@@ -31,7 +31,8 @@ body {
 }
 
 header {
-  background-color: rgb(0, 0, 0);
+  background: linear-gradient(150deg, #3c3c3c, #000000);
+  /* background-color: rgb(0, 0, 0); */
 }
 
 h1,

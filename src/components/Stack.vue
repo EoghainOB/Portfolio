@@ -6,40 +6,40 @@
           <h1>Stack</h1>
         </div>
         <div class="logoDiv">
-          <img src="src/components/logos/javascript.svg" alt="JavaScript" />
+          <img src="/src/components/logos/javascript.svg" alt="JavaScript" />
         </div>
         <div class="logoDiv">
-          <img src="src/components/logos/typescript.svg" alt="TypeScript" />
+          <img src="/src/components/logos/typescript.svg" alt="TypeScript" />
         </div>
         <div class="logoDiv">
-          <img src="src/components/logos/html5.svg" alt="HTML5" />
+          <img src="/src/components/logos/html5.svg" alt="HTML5" />
         </div>
         <div class="logoDiv">
-          <img src="src/components/logos/css3.svg" alt="CSS3" />
+          <img src="/src/components/logos/css3.svg" alt="CSS3" />
         </div>
         <div class="logoDiv">
-          <img src="src/components/logos/nodejs.svg" alt="NodeJS" />
+          <img src="/src/components/logos/nodejs.svg" alt="NodeJS" />
         </div>
         <div class="logoDiv">
-          <img src="src/components/logos/react.svg" alt="React" />
+          <img src="/src/components/logos/react.svg" alt="React" />
         </div>
         <div class="logoDiv">
-          <img src="src/components/logos/vue.svg" alt="VueJS" />
+          <img src="/src/components/logos/vue.svg" alt="VueJS" />
         </div>
         <div class="logoDiv">
-          <img src="src/components/logos/angular.svg" alt="Angular" />
+          <img src="/src/components/logos/angular.svg" alt="Angular" />
         </div>
         <div class="logoDiv">
-          <img src="src/components/logos/express.svg" alt="Express" />
+          <img src="/src/components/logos/express.svg" alt="Express" />
         </div>
         <div class="logoDiv">
-          <img src="src/components/logos/mongodb.svg" alt="MongoDB" />
+          <img src="/src/components/logos/mongodb.svg" alt="MongoDB" />
         </div>
         <div class="logoDiv">
-          <img src="src/components/logos/postgres.svg" alt="PostgreSQL" />
+          <img src="/src/components/logos/postgres.svg" alt="PostgreSQL" />
         </div>
         <div class="logoDiv">
-          <img src="src/components/logos/figma.svg" alt="Figma" />
+          <img src="/src/components/logos/figma.svg" alt="Figma" />
         </div>
       </div>
     </div>
