@@ -6,13 +6,13 @@
         <div class="contactDetails">
           <div class="link" id="github">
             <div>
-              <img src="@/components/logos/github.svg" alt="GitHub" />
+              <img src="/src/components/logos/github.svg" alt="GitHub" />
             </div>
             <div><p>github.com/EoghainOB</p></div>
           </div>
           <div class="link" id="linkedin">
             <div>
-              <img src="@/components/logos/linkedin.svg" alt="LinkedIn" />
+              <img src="/src/components/logos/linkedin.svg" alt="LinkedIn" />
             </div>
             <div><p>linkedin.com/in/eoghain-o-briain</p></div>
           </div>
