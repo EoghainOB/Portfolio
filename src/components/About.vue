@@ -46,7 +46,6 @@ h2 {
 
 .profileText {
   margin-left: 15px;
-  margin-right: 15px;
 }
 
 @media only screen and (min-width: 768px) {
@@ -72,6 +71,13 @@ h2 {
     border-radius: 10px;
     border-top: none;
     border-bottom: none;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .profileBlock {
+    margin-left: 15px;
+    margin-right: 15px;
   }
 }
 </style>

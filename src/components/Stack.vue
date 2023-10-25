@@ -1,54 +1,56 @@
 <template>
-  <div class="stackBody">
-    <div class="stackLogos">
-      <div class="sectionTitle">
-        <h1>Stack</h1>
-      </div>
-      <div class="logoDiv">
-        <img src="src/components/logos/javascript.svg" alt="JavaScript" />
-      </div>
-      <div class="logoDiv">
-        <img src="src/components/logos/typescript.svg" alt="TypeScript" />
-      </div>
-      <div class="logoDiv">
-        <img src="src/components/logos/html5.svg" alt="HTML5" />
-      </div>
-      <div class="logoDiv">
-        <img src="src/components/logos/css3.svg" alt="CSS3" />
-      </div>
-      <div class="logoDiv">
-        <img src="src/components/logos/nodejs.svg" alt="NodeJS" />
-      </div>
-      <div class="logoDiv">
-        <img src="src/components/logos/react.svg" alt="React" />
-      </div>
-      <div class="logoDiv">
-        <img src="src/components/logos/vue.svg" alt="VueJS" />
-      </div>
-      <div class="logoDiv">
-        <img src="src/components/logos/angular.svg" alt="Angular" />
-      </div>
-      <div class="logoDiv">
-        <img src="src/components/logos/express.svg" alt="Express" />
-      </div>
-      <div class="logoDiv">
-        <img src="src/components/logos/mongodb.svg" alt="MongoDB" />
-      </div>
-      <div class="logoDiv">
-        <img src="src/components/logos/postgres.svg" alt="PostgreSQL" />
-      </div>
-      <div class="logoDiv">
-        <img src="src/components/logos/figma.svg" alt="Figma" />
+  <div class="stackBlock">
+    <div class="stackBody">
+      <div class="stackLogos">
+        <div class="sectionTitle">
+          <h1>Stack</h1>
+        </div>
+        <div class="logoDiv">
+          <img src="src/components/logos/javascript.svg" alt="JavaScript" />
+        </div>
+        <div class="logoDiv">
+          <img src="src/components/logos/typescript.svg" alt="TypeScript" />
+        </div>
+        <div class="logoDiv">
+          <img src="src/components/logos/html5.svg" alt="HTML5" />
+        </div>
+        <div class="logoDiv">
+          <img src="src/components/logos/css3.svg" alt="CSS3" />
+        </div>
+        <div class="logoDiv">
+          <img src="src/components/logos/nodejs.svg" alt="NodeJS" />
+        </div>
+        <div class="logoDiv">
+          <img src="src/components/logos/react.svg" alt="React" />
+        </div>
+        <div class="logoDiv">
+          <img src="src/components/logos/vue.svg" alt="VueJS" />
+        </div>
+        <div class="logoDiv">
+          <img src="src/components/logos/angular.svg" alt="Angular" />
+        </div>
+        <div class="logoDiv">
+          <img src="src/components/logos/express.svg" alt="Express" />
+        </div>
+        <div class="logoDiv">
+          <img src="src/components/logos/mongodb.svg" alt="MongoDB" />
+        </div>
+        <div class="logoDiv">
+          <img src="src/components/logos/postgres.svg" alt="PostgreSQL" />
+        </div>
+        <div class="logoDiv">
+          <img src="src/components/logos/figma.svg" alt="Figma" />
+        </div>
       </div>
     </div>
-  </div>
-  <div class="stackText">
-    <p>
-      JavaScript, TypeScript, React, Angular, Vue.js, Node.js, Express, HTML5,
-      CSS3, Databases incl. MongoDB and PostgreSQL, UX/UI, RESTful APIs and
-      general dev tools such as Postman, Git, Jira, Figma and TDD (Mocha &
-      Jest).
-    </p>
+    <div class="stackText">
+      <p>
+        JavaScript, TypeScript, React, Angular, Vue.js, Node.js, Express, HTML5,
+        CSS3, Databases incl. MongoDB and PostgreSQL, UX/UI, RESTful APIs and
+        general dev tools such as Postman, Git, Jira, Figma and TDD (Mocha &
+        Jest).
+      </p>
+    </div>
   </div>
 </template>
 
@@ -114,6 +116,10 @@ export default {
   .stackLogos img {
     height: 130px;
     padding: 20px;
+  }
+  .stackBlock {
+    margin-left: 15px;
+    margin-right: 15px;
   }
 }
 </style>

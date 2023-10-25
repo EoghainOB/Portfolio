@@ -3,12 +3,10 @@
   <div class="content">
     <HomeView />
   </div>
-  <Contact />
 </template>
 
 <script>
 import HomeView from "./views/HomeView.vue";
-import Contact from "./components/Contact.vue";
 import HeaderMenu from "./components/HeaderMenu.vue";
 
 export default {
@@ -16,7 +14,6 @@ export default {
   components: {
     HeaderMenu,
     HomeView,
-    Contact,
   },
 };
 </script>
