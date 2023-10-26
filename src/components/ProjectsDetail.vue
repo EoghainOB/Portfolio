@@ -83,6 +83,7 @@ export default defineComponent({
 
 <style>
 .carouselItem {
+  height: 100%;
   min-height: 200px;
   width: 100%;
   background-color: #e7e7e7;
