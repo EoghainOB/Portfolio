@@ -76,7 +76,7 @@ export default {
 .stackBody {
   padding-left: 15px;
   padding-right: 15px;
-  background: rgba(255, 255, 255, 0.1);
+  background-color: rgba(255, 255, 255, 0.1);
 }
 
 .stackLogos {
