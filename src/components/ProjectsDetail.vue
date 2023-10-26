@@ -108,7 +108,7 @@ export default defineComponent({
 
 .carousel__prev,
 .carousel__next {
-  box-sizing: content-box;
+  display: none;
 }
 
 .carousel__icon {
@@ -163,6 +163,12 @@ export default defineComponent({
 @media only screen and (min-width: 768px) {
   .carousel__slide {
     padding: 10px;
+  }
+
+  .carousel__prev,
+  .carousel__next {
+    box-sizing: content-box;
+    display: block;
   }
 }
 </style>
