@@ -2,9 +2,9 @@
   <div class="stackBlock">
     <div class="stackBody">
       <div class="stackLogos">
-        <div class="sectionTitle">
+        <!-- <div class="sectionTitle">
           <h1>Stack</h1>
-        </div>
+        </div> -->
         <div class="logoDiv">
           <img src="/logos/javascript.svg" alt="JavaScript" />
         </div>
@@ -30,7 +30,7 @@
           <img src="/logos/angular.svg" alt="Angular" />
         </div>
         <div class="logoDiv">
-          <img src="/logos/express.svg" alt="Express" />
+          <img src="/logos/expresswhite.svg" alt="Express" />
         </div>
         <div class="logoDiv">
           <img src="/logos/mongodb.svg" alt="MongoDB" />
@@ -62,9 +62,11 @@ export default {
 
 <style>
 .stackBody {
-  background: linear-gradient(0deg, #4f4f4f, #919191);
+  /* background: linear-gradient(200deg, #4f4f4f, #919191); */
   padding-left: 15px;
   padding-right: 15px;
+  /* border: dashed 2px white; */
+  background-color: rgb(255, 255, 255, 0.1);
 }
 
 .sectionTitle {
@@ -73,6 +75,7 @@ export default {
 
 .sectionTitle h1 {
   margin: 0px;
+  color: white;
 }
 
 .stackLogos {

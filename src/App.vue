@@ -28,6 +28,11 @@ body {
   margin: 0;
   padding: 0;
   background-color: #2f2f2f;
+  background-image: url("/images/background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 15%;
+  background-size: 100vh;
 }
 
 header {
@@ -50,5 +55,12 @@ p {
 
 p {
   font-size: 1.2em;
+}
+
+@media only screen and (min-width: 768px) {
+  body {
+    background-position: center;
+    background-size: 100vw;
+  }
 }
 </style>
