@@ -51,7 +51,7 @@
         back-end technologies, including <span class="invert">Node.js</span> and
         <span class="invert">Express</span>. Proficient in web fundamentals like
         <span class="invert">HTML5</span> and <span class="invert">CSS3</span>,
-        I also bring database proficiency, working with
+        I also bring database understanding, working with
         <span class="invert">MongoDB</span> and
         <span class="invert">PostgreSQL</span>. My skill set extends to
         <span class="invert">UX/UI design</span>, building and consuming
