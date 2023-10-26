@@ -30,8 +30,8 @@ body {
   background-image: url("/images/background.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-position: 15% 0;
-  background-size: 100%;
+  background-position: 15%;
+  background-size: cover;
 }
 
 header {
@@ -59,6 +59,7 @@ p {
 @media only screen and (min-width: 768px) {
   body {
     background-position: center;
+    background-size: 100vw;
   }
 }
 </style>
