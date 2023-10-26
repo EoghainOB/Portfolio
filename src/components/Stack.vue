@@ -2,9 +2,6 @@
   <div class="stackBlock">
     <div class="stackBody">
       <div class="stackLogos">
-        <!-- <div class="sectionTitle">
-          <h1>Stack</h1>
-        </div> -->
         <div class="logoDiv">
           <img src="/logos/javascript.svg" alt="JavaScript" />
         </div>
@@ -45,10 +42,25 @@
     </div>
     <div class="stackText">
       <p>
-        JavaScript, TypeScript, React, Angular, Vue.js, Node.js, Express, HTML5,
-        CSS3, Databases incl. MongoDB and PostgreSQL, UX/UI, RESTful APIs and
-        general dev tools such as Postman, Git, Jira, Figma and TDD (Mocha &
-        Jest).
+        I possess a comprehensive skill set as a developer, with knowledge of
+        <span class="invert">JavaScript</span> and
+        <span class="invert">TypeScript</span>. I'm well-versed in popular
+        front-end frameworks like <span class="invert">React</span>,
+        <span class="invert">Angular</span> and
+        <span class="invert">Vue.js</span>, and have a strong command of
+        back-end technologies, including <span class="invert">Node.js</span> and
+        <span class="invert">Express</span>. Proficient in web fundamentals like
+        <span class="invert">HTML5</span> and <span class="invert">CSS3</span>,
+        I also bring database proficiency, working with
+        <span class="invert">MongoDB</span> and
+        <span class="invert">PostgreSQL</span>. My skill set extends to
+        <span class="invert">UX/UI design</span>, building and consuming
+        <span class="invert">RESTful APIs</span>, and utilizing essential
+        developer tools such as <span class="invert">Postman</span>,
+        <span class="invert">Git</span>, <span class="invert">Jira</span>, and
+        <span class="invert">Figma</span>. Additionally, I'm experienced in
+        Test-Driven Development (TDD) using
+        <span class="invert">Mocha</span> and <span class="invert">Jest</span>.
       </p>
     </div>
   </div>
@@ -60,22 +72,11 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 .stackBody {
-  /* background: linear-gradient(200deg, #4f4f4f, #919191); */
   padding-left: 15px;
   padding-right: 15px;
-  /* border: dashed 2px white; */
   background-color: rgb(255, 255, 255, 0.1);
-}
-
-.sectionTitle {
-  width: 100%;
-}
-
-.sectionTitle h1 {
-  margin: 0px;
-  color: white;
 }
 
 .stackLogos {
@@ -100,6 +101,11 @@ export default {
 .stackText p {
   margin: 0px;
   color: white;
+}
+
+.invert {
+  border-bottom: solid 2px #7b7b7b;
+  padding: 0px 3px;
 }
 
 .logoDiv {

@@ -1,7 +1,7 @@
 <template>
   <div class="contactBlock">
     <div class="contactContent">
-      <h1>More?</h1>
+      <h1>Links.</h1>
       <div class="contactGroup">
         <div class="contactDetails">
           <div class="link" id="github">

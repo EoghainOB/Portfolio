@@ -1,7 +1,7 @@
 <template>
   <div class="projectsBlock">
     <div class="projectsContent">
-      <h1>Projects</h1>
+      <h1>Projects.</h1>
       <ProjectsDetail />
     </div>
   </div>

@@ -1,6 +1,6 @@
 <template>
   <div class="experienceBlock">
-    <h1>Experience?</h1>
+    <h1>Experienced.</h1>
     <div class="jobList">
       <h2><b>Jan ‘23 – June ‘23</b></h2>
       <p>

@@ -25,8 +25,8 @@ export default {
 
 .headerContent h1 {
   font-size: 4em;
-  color: white;
   margin: 0px;
+  color: white;
 }
 
 @media only screen and (min-width: 768px) {

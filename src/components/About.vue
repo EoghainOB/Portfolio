@@ -5,14 +5,14 @@
     </div>
     <div class="profileText">
       <h2>
-        My name is <span class="invert">Eoghain O’Briain</span> and I am
-        originally from Ireland and now living in the Netherlands. I am a
-        <span class="invert">fullstack</span> and
-        <span class="invert">frontend developer</span>. With 20 years experience
-        as a business owner and as a
-        <span class="invert">graphic designer</span>, I have been creating
-        websites for over two decades and made the decision to transition to the
-        tech industry in 2022 as part of a career change.
+        I'm <span class="invert">Eoghain O’Briain</span>, originally from
+        Ireland and now residing in the Netherlands. I'm a passionate
+        <span class="invert">full-stack</span> and
+        <span class="invert">front-end developer</span> with demonstrable
+        experience as a <span class="invert">business owner</span> and a
+        <span class="invert">graphic designer</span>. My diverse background
+        equips me with excellent troubleshooting skills, critical and creative
+        thinking and a meticulous <span class="invert">eye for detail</span>.
       </h2>
     </div>
   </div>

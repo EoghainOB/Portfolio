@@ -1,6 +1,6 @@
 <template>
   <div class="trainingBlock">
-    <h1>Trained?</h1>
+    <h1>Qualified.</h1>
     <div class="trainingList">
       <h2><b>Sept ‘22 - Dec ‘22</b></h2>
       <p>
