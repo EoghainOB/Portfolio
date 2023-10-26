@@ -31,7 +31,7 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 15% 0;
-  background-size: 100% 100vh;
+  background-size: 100%;
 }
 
 header {
