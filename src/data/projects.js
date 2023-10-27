@@ -54,6 +54,24 @@ export const projects = [
     repoURL: "https://github.com/EoghainOB/ToDo-List",
   },
   {
+    title: "Finance Tracker",
+    image: "/images/projects/mynance.jpeg",
+    description:
+      "This project was part of a hack week at Salt. I created an expense and income tracker using React with Typescript. A user can log in using the integrated Google authentication and can add their expense or income. This information is saved on MongoDB using Express endoints.",
+    workingUrl: "",
+    stack: [
+      "react",
+      "javascript",
+      "typescript",
+      "nodejs",
+      "express",
+      "mongodb",
+      "html5",
+      "css3",
+    ],
+    repoURL: "https://github.com/EoghainOB/Finance-Tracker",
+  },
+  {
     title: "Simple calculator",
     image: "/images/projects/calculator.jpeg",
     description:
@@ -66,9 +84,35 @@ export const projects = [
     title: "Flight-Finder",
     image: "/images/projects/flightfinder.jpeg",
     description:
-      "This front end application was created to work together with a Flight-Finder API I also created. Its a simple app that allows the user to search for flights and to return results with flight and pricing details regardless if it is a direct flight or if it has a layover. It has been created with Typescript and React.",
+      "This front end application was created to work together with a Flight-Finder API I also created. Its an app that allows the user to search for flights and to return results with flight and pricing details regardless if it is a direct flight or if it has a layover. It has been created with Typescript and React.",
     workingUrl: "",
     stack: ["react", "javascript", "nodejs", "express", "html5", "css3"],
     repoURL: "https://github.com/EoghainOB/Flight-Finder-frontend",
+  },
+  {
+    title: "Puppy Database",
+    image: "/images/projects/puppy.jpeg",
+    description:
+      "This project is a full stack application made in React using Typescript. I started by creating a basic API on the backend using a local array and populated it with sample data, in this case dogs (name, breed, DOB). I set up the routes using Express on the backend. For the front end I used React and Typescript. The user is able to add new dogs as well as edit the information of the current dogs. The image has been pulled from Unsplash using their API.",
+    workingUrl: "",
+    stack: [
+      "react",
+      "javascript",
+      "typescript",
+      "nodejs",
+      "express",
+      "html5",
+      "css3",
+    ],
+    repoURL: "https://github.com/EoghainOB/Puppy-Api-Fullstack",
+  },
+  {
+    title: "Countdown timer",
+    image: "/images/projects/countdown.jpeg",
+    description:
+      "A basic countdown timer made using React. The user enters the number in seconds and starts the countdown. The number counts down while also displaying a coloured progress bar.",
+    workingUrl: "",
+    stack: ["react", "javascript", "nodejs", "html5", "css3"],
+    repoURL: "https://github.com/EoghainOB/Countdown",
   },
 ];
