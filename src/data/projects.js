@@ -115,4 +115,13 @@ export const projects = [
     stack: ["react", "javascript", "nodejs", "html5", "css3"],
     repoURL: "https://github.com/EoghainOB/Countdown",
   },
+  {
+    title: "Crypto portfolio tracker",
+    image: "/images/projects/cryptotracker.jpeg",
+    description:
+      "This crypto portfolio tracker using React together with MongoDB and Mongoose and it uses the CoinGecko API for pricing and other coin data. The user can add their crypto coin of choice from the dropdown supplied by CoinGecko's API alongside how many of said coin and the price paid per coin. This information is stored in the database and used to display the user's profit/loss per coin and their overall portfolio worth using the latest price information from the API. The amount is displayed in green or red depending on if is up or down. Clicking the information button will show expanded information on each coin.",
+    workingUrl: "",
+    stack: ["react", "javascript", "nodejs", "express", "html5", "css3"],
+    repoURL: "https://github.com/EoghainOB/Crypto-Portfolio",
+  },
 ];

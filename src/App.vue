@@ -3,19 +3,17 @@
     <HeaderMenu />
   </header>
   <div class="content">
-    <HomeView />
+    <router-view></router-view>
   </div>
 </template>
 
 <script>
-import HomeView from "./views/HomeView.vue";
 import HeaderMenu from "./components/HeaderMenu.vue";
 
 export default {
   name: "App",
   components: {
     HeaderMenu,
-    HomeView,
   },
 };
 </script>
@@ -54,7 +52,11 @@ p {
 }
 
 p {
-  font-size: 1.2em;
+  font-size: 1.1em;
+}
+
+h3 {
+  font-size: 1.5em;
 }
 
 @media only screen and (min-width: 768px) {

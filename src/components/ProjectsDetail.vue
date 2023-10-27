@@ -88,7 +88,6 @@ export default defineComponent({
   width: 100%;
   background-color: #e7e7e7;
   color: black;
-  font-size: 20px;
   border-radius: 10px;
   display: flex;
   justify-content: center;
@@ -133,10 +132,6 @@ export default defineComponent({
 .cardText h3 {
   font-weight: bold;
   margin: 0px;
-}
-
-.cardText p {
-  font-size: 0.9em;
 }
 
 .cardImage img {
