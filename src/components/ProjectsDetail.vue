@@ -48,7 +48,7 @@
 <script>
 import { defineComponent } from "vue";
 import { Carousel, Navigation, Slide, Pagination } from "vue3-carousel";
-import { projects } from "../data/projects";
+import { projects as allProjects } from "../data/projects";
 
 import "vue3-carousel/dist/carousel.css";
 
@@ -59,7 +59,6 @@ export default defineComponent({
     Slide,
     Navigation,
     Pagination,
-    projects,
   },
   data: () => ({
     settings: {
@@ -76,7 +75,7 @@ export default defineComponent({
         snapAlign: "center",
       },
     },
-    projects,
+    projects: allProjects.slice().reverse().slice(0, 5),
   }),
 });
 </script>

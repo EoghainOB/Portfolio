@@ -1,12 +1,19 @@
 <template>
   <div class="headerBlock">
-    <div class="headerContent"><h1>Welcome.</h1></div>
+    <div class="headerContent">
+      <h1>{{ headertext }}</h1>
+    </div>
   </div>
 </template>
 
 <script>
 export default {
   name: "HeaderMenu",
+  props: {
+    headertext: {
+      type: String,
+    },
+  },
 };
 </script>
 

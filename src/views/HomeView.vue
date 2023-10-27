@@ -1,4 +1,7 @@
 <template>
+  <header>
+    <HeaderMenu headertext="Welcome." />
+  </header>
   <div class="mainSite">
     <About />
     <Stack />
@@ -18,10 +21,12 @@ import Projects from "../components/Projects.vue";
 import Experience from "../components/Experience.vue";
 import Trained from "../components/Trained.vue";
 import Contact from "../components/Contact.vue";
+import HeaderMenu from "../components/HeaderMenu.vue";
 
 export default {
   name: "HomeView",
   components: {
+    HeaderMenu,
     About,
     Stack,
     Projects,

@@ -46,13 +46,13 @@
 </template>
 
 <script>
-import { projects } from "../data/projects";
+import { projects as allProjects } from "../data/projects";
 
 export default {
   name: "ProjectsList",
-  components: { projects },
+  components: { allProjects },
   data: () => ({
-    projects,
+    projects: allProjects.slice().reverse(),
   }),
 };
 </script>

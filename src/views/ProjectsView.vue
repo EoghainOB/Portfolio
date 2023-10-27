@@ -1,14 +1,12 @@
 <template>
+  <header>
+    <HeaderMenu headertext="Projects." />
+  </header>
   <div class="mainSite">
     <div class="returnLink">
       <router-link to="/">
-        <h2>Return to home</h2>
+        <h2>&lt; Return to home</h2>
       </router-link>
-    </div>
-    <div class="projectTitle">
-      <div>
-        <h1>Projects.</h1>
-      </div>
     </div>
     <ProjectsList />
     <Contact />
@@ -18,10 +16,12 @@
 <script>
 import ProjectsList from "../components/ProjectsList.vue";
 import Contact from "../components/Contact.vue";
+import HeaderMenu from "../components/HeaderMenu.vue";
 
 export default {
   name: "ProjectsView",
   components: {
+    HeaderMenu,
     ProjectsList,
     Contact,
   },
@@ -43,15 +43,11 @@ h2 {
   max-width: 1100px;
   margin: auto;
 }
-
-.projectTitle,
-.returnLink {
-  margin-left: 15px;
-  margin-right: 15px;
-}
-
 .returnLink {
   width: fit-content;
+  margin-left: 15px;
+  margin-right: 15px;
+  padding: 10px 0px;
 }
 
 @media only screen and (min-width: 768px) {
