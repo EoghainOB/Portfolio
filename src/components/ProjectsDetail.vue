@@ -144,7 +144,7 @@ export default defineComponent({
   border-top-right-radius: 10px;
 }
 
-.carousel__track {
+.carousel__slide {
   background-color: rgb(69 69 69);
 }
 .stack {

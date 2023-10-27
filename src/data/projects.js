@@ -37,7 +37,7 @@ export const projects = [
   },
   {
     title: "Tiny Blog",
-    image: "/images/projects/mathstest.jpeg",
+    image: "/images/projects/tinyblog.jpeg",
     description:
       "This application has been made using React with Typescript. I uses the https://dummyjson.com/posts API for content and the Unsplash API for photos. The content is initially sorted into 5 groups, which are filtered by tags. The user can further refine what content is displayed using the dropdown at the top of the page which chooses only one group.",
     workingUrl: "",
@@ -46,7 +46,7 @@ export const projects = [
   },
   {
     title: "A simple ToDo list application",
-    image: "/images/projects/mathstest.jpeg",
+    image: "/images/projects/todolist.jpeg",
     description:
       "Made using React with the todos stored to localstorage. The user can add new items to the list, mark them as done, while undo will put it back in the previous location in the list. Of course when the task has been marked as done, it can then be deleted.",
     workingUrl: "",
@@ -55,7 +55,7 @@ export const projects = [
   },
   {
     title: "Simple calculator",
-    image: "/images/projects/mathstest.jpeg",
+    image: "/images/projects/calculator.jpeg",
     description:
       "Made in React, this application performs all the functions of a basic calculator. The user clicks the buttons to set the inputs. I wanted it to look as much like an actual calculator app as possible.",
     workingUrl: "",
@@ -64,7 +64,7 @@ export const projects = [
   },
   {
     title: "Flight-Finder front end",
-    image: "/images/projects/mathstest.jpeg",
+    image: "/images/projects/flightfinder.jpeg",
     description:
       "This mobile first front end application was created to work together with the Flight-Finder API (https://github.com/EoghainOB/Flight-Finder). Its a simple app that allows the user to search for flights and to return results with flight and pricing details regardless if it is a direct flight or if it has a layover. It has been created with Typescript and React and I plan to add the ability to select the return flight and purchase in future iterations. ",
     workingUrl: "",
