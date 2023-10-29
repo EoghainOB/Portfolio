@@ -44,6 +44,15 @@ export const projects = [
     repoURL: "https://github.com/EoghainOB/Flight-Finder-frontend",
   },
   {
+    title: "Maths test",
+    image: "/images/projects/mathstest.jpeg",
+    description:
+      "For this project I created a simple application that allowed my young daughter to be able to practice maths. The user can select the type of sum they want to try, addition, subtraction, division or multiplication, as well as the level of difficulty from easy, medium and hard. When they click the start button they are presented with a sum. The user enters the answer into the field and clicks the 'Submit Answer' button. If it is correct the outline will light up green and display the next sum, if it is incorrect it will light up red and the sum will remain.",
+    workingUrl: "https://maths-test-two.vercel.app/",
+    stack: ["react", "javascript", "typescript", "nodejs", "html5", "css3"],
+    repoURL: "https://github.com/EoghainOB/Maths_Test",
+  },
+  {
     title: "Simple calculator",
     image: "/images/projects/calculator.jpeg",
     description:
@@ -114,14 +123,5 @@ export const projects = [
     workingUrl: "https://rijks-master-angular.vercel.app/",
     stack: ["angular", "javascript", "typescript", "nodejs", "html5", "css3"],
     repoURL: "https://github.com/EoghainOB/RijksMaster_Angular",
-  },
-  {
-    title: "Maths test",
-    image: "/images/projects/mathstest.jpeg",
-    description:
-      "For this project I created a simple application that allowed my young daughter to be able to practice maths. The user can select the type of sum they want to try, addition, subtraction, division or multiplication, as well as the level of difficulty from easy, medium and hard. When they click the start button they are presented with a sum. The user enters the answer into the field and clicks the 'Submit Answer' button. If it is correct the outline will light up green and display the next sum, if it is incorrect it will light up red and the sum will remain.",
-    workingUrl: "https://maths-test-two.vercel.app/",
-    stack: ["react", "javascript", "typescript", "nodejs", "html5", "css3"],
-    repoURL: "https://github.com/EoghainOB/Maths_Test",
   },
 ];
