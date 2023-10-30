@@ -70,7 +70,7 @@ h2 {
   .profileImage img {
     height: 100%;
     width: 400px;
-    object-position: top 0px left 0px;
+    object-position: top 0px left -60px;
     margin-right: 20px;
     border-radius: 10px;
     border-top: none;
