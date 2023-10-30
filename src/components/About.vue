@@ -5,7 +5,7 @@
     </div>
     <div class="profileText">
       <h2>
-        Hi, I'm <span class="invert">Eoghain O’Briain</span>, originally from
+        Hi, I'm <span class="invert">Eoghain O’Briain</span>. Originally from
         Ireland I now live in the Netherlands. I'm a passionate
         <span class="invert">full-stack</span> and
         <span class="invert">front-end developer</span> with demonstrable
@@ -26,6 +26,7 @@ export default {
 
 <style scoped>
 h2 {
+  font-size: x-large;
   color: white;
 }
 
@@ -38,7 +39,7 @@ h2 {
 .profileImage img {
   width: 104%;
   height: 240px;
-  object-position: top -25px left 0px;
+  object-position: center;
   object-fit: cover;
   border-top: solid 2px white;
   border-bottom: solid 2px white;
@@ -48,43 +49,68 @@ h2 {
   margin-left: 15px;
   margin-right: 15px;
 }
-
+@media only screen and (min-width: 425px) {
+  .profileImage img {
+    object-position: top -80px left 0px;
+  }
+}
+@media only screen and (min-width: 525px) {
+  .profileImage img {
+    object-position: top -110px left 0px;
+  }
+}
+@media only screen and (min-width: 610px) {
+  .profileImage img {
+    object-position: top -140px left 0px;
+  }
+}
 @media only screen and (min-width: 768px) {
   .profileBlock {
     display: flex;
     align-items: center;
     margin-bottom: 30px;
   }
-  .profileImage {
-    height: 440px;
-  }
 
   h2 {
-    font-size: xx-large;
-    line-height: 50px;
+    font-size: 2.9vw;
+    line-height: 4.5vw;
     padding: 20px 0px;
     border-top: solid 2px white;
     border-bottom: solid 2px white;
   }
-
-  .profileImage img {
+  .profileImage {
     height: 100%;
-    width: 400px;
-    object-position: top 0px left -60px;
+  }
+  .profileImage img {
+    width: 325px;
+    height: 371px;
+    object-fit: cover;
+    object-position: top 0px left -64px;
     margin-right: 20px;
     border-radius: 10px;
     border-top: none;
     border-bottom: none;
   }
-}
-
-@media only screen and (min-width: 768px) {
   .profileBlock {
     margin-left: 15px;
     margin-right: 15px;
   }
   .profileText {
     margin-right: 0px;
+  }
+}
+@media only screen and (min-width: 1100px) {
+  h2 {
+    font-size: xx-large;
+    line-height: 50px;
+  }
+  .profileImage {
+    height: 440px;
+  }
+  .profileImage img {
+    width: 400px;
+    height: 100%;
+    object-position: top 0px left -60px;
   }
 }
 </style>
