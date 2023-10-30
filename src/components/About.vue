@@ -1,12 +1,12 @@
 <template>
   <div class="profileBlock">
     <div class="profileImage">
-      <img src="/images/110406695.jpeg" alt="Eoghain" />
+      <img src="/images/eoghain.jpg" alt="Eoghain" />
     </div>
     <div class="profileText">
       <h2>
-        I'm <span class="invert">Eoghain O’Briain</span>, originally from
-        Ireland and now residing in the Netherlands. I'm a passionate
+        Hi, I'm <span class="invert">Eoghain O’Briain</span>, originally from
+        Ireland I now live in the Netherlands. I'm a passionate
         <span class="invert">full-stack</span> and
         <span class="invert">front-end developer</span> with demonstrable
         experience as a <span class="invert">business owner</span> and a
@@ -36,9 +36,9 @@ h2 {
 }
 
 .profileImage img {
-  width: 100%;
-  height: 220px;
-  object-position: top -35px left 0px;
+  width: 104%;
+  height: 240px;
+  object-position: top -25px left 0px;
   object-fit: cover;
   border-top: solid 2px white;
   border-bottom: solid 2px white;
@@ -54,6 +54,9 @@ h2 {
     display: flex;
     align-items: center;
     margin-bottom: 30px;
+  }
+  .profileImage {
+    height: 440px;
   }
 
   h2 {
