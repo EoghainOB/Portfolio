@@ -115,16 +115,21 @@ h2 {
 
 @media only screen and (min-width: 768px) {
   .projectContent {
-    width: 49%;
+    width: 48.7%;
   }
 
   .stack {
     display: flex;
-    gap: 1em;
+    gap: 0.6em;
   }
 
   .stack img {
-    height: 35px;
+    height: 30px;
+  }
+}
+@media only screen and (min-width: 829px) {
+  .projectContent {
+    width: 49%;
   }
 }
 </style>

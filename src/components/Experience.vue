@@ -12,14 +12,15 @@
     <div class="jobList">
       <h2><b>Sept ‘08 – Aug ‘22</b></h2>
       <p>
-        <b>Founder</b><br />Red RC<br />
+        <b>Founder</b><br />Red RC - Daily sports news site<br />
         <i>Overveen, The Netherlands</i>
       </p>
     </div>
     <div class="jobList">
       <h2><b>Apr ‘00 – Aug ‘08</b></h2>
       <p>
-        <b>Graphic Designer / Marketing Manager</b><br />Serpent MRC b.v<br />
+        <b>Graphic Designer / Marketing Manager</b><br />Serpent Model Racing
+        Cars b.v<br />
         <i>Cruquius, The Netherlands</i>
       </p>
     </div>

@@ -139,6 +139,7 @@ export default {
     height: auto;
     padding: 10px;
   }
+
   .stackBlock {
     margin-left: 15px;
     margin-right: 15px;

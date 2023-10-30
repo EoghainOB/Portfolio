@@ -5,10 +5,10 @@
     </div>
     <div class="profileText">
       <h2>
-        Hi, I'm <span class="invert">Eoghain O’Briain</span>. Originally from
-        Ireland I now live in the Netherlands. I'm a passionate
+        Hi, I'm <span class="invert">Eoghain O’Briain</span>. Living in the
+        Netherlands, I am originally from Ireland. A passionate
         <span class="invert">full-stack</span> and
-        <span class="invert">front-end developer</span> with demonstrable
+        <span class="invert">front-end developer</span>, I have demonstrable
         experience as a <span class="invert">business owner</span> and a
         <span class="invert">graphic designer</span>. My diverse background
         equips me with excellent troubleshooting skills, critical and creative
@@ -37,7 +37,7 @@ h2 {
 }
 
 .profileImage img {
-  width: 104%;
+  width: 100%;
   height: 240px;
   object-position: top -30px left 0px;
   object-fit: cover;
