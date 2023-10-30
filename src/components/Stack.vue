@@ -108,11 +108,6 @@ export default {
   padding: 0px 3px;
 }
 
-.logoDiv {
-  display: flex;
-  flex-grow: 4;
-}
-
 @media only screen and (min-width: 768px) {
   .stackBody {
     border-top-left-radius: 10px;
@@ -122,9 +117,27 @@ export default {
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
   }
+  .stackLogos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 100%;
+    padding-top: 15px;
+    padding-bottom: 25px;
+  }
+
+  .logoDiv {
+    display: flex;
+    flex: 0 0 12%;
+    padding: 16px;
+    justify-content: center;
+    align-items: center;
+  }
+
   .stackLogos img {
-    height: 130px;
-    padding: 20px;
+    max-width: 100%;
+    height: auto;
+    padding: 10px;
   }
   .stackBlock {
     margin-left: 15px;
