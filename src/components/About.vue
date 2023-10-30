@@ -39,7 +39,7 @@ h2 {
 .profileImage img {
   width: 104%;
   height: 240px;
-  object-position: center;
+  object-position: top -30px left 0px;
   object-fit: cover;
   border-top: solid 2px white;
   border-bottom: solid 2px white;
