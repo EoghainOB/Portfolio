@@ -93,7 +93,7 @@ export const projects = [
     image: "/images/projects/tinyblog.jpeg",
     description:
       "This application has been made using React with Typescript. I uses the https://dummyjson.com/posts API for content and the Unsplash API for photos. The content is initially sorted into 5 groups, which are filtered by tags. The user can further refine what content is displayed using the dropdown at the top of the page which chooses only one group.",
-    workingUrl: "",
+    workingUrl: "https://tiny-blog-xi.vercel.app/",
     stack: ["react", "javascript", "typescript", "nodejs", "html5", "css3"],
     repoURL: "https://github.com/EoghainOB/Tiny-Blog",
   },
