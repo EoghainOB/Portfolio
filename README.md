@@ -1,29 +1,16 @@
-# portfolio
+# Portfolio
 
-This template should help get you started developing with Vue 3 in Vite.
+I used Vue to create my personal portfolio site and hosted it on Vercel. I start with a mobile-first design in Figma as I wanted the layout to work in all major screen formats. I have integrated a carousel to display my latest project on the main page and created a separate route to display all my projects.
 
-## Recommended IDE Setup
+![eoghaindotcom](https://github.com/EoghainOB/Portfolio/assets/110406695/ac5df62a-416b-4ede-a463-32afb2d54ad0)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
-## Customize configuration
+<i>This project is made using: </i>
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+<div>
+    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+</div>
