@@ -124,4 +124,13 @@ export const projects = [
     stack: ["angular", "javascript", "typescript", "nodejs", "html5", "css3"],
     repoURL: "https://github.com/EoghainOB/RijksMaster_Angular",
   },
+  {
+    title: "Portfolio site",
+    image: "/images/projects/eoghaindotcom.jpeg",
+    description:
+      "I used Vue to create my personal portfolio site and hosted it on Vercel. I start with a mobile-first design in Figma as I wanted the layout to work in all major screen formats. I have integrated a carousel to display my latest project on the main page and created a separate route to display all my projects.",
+    workingUrl: "https://www.eoghain.com/",
+    stack: ["vue", "javascript", "nodejs", "html5", "css3"],
+    repoURL: "https://github.com/EoghainOB/Portfolio",
+  },
 ];

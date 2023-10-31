@@ -110,7 +110,7 @@ h2 {
   .profileImage img {
     width: 400px;
     height: 100%;
-    object-position: top 0px left -60px;
+    object-position: top 0px left -70px;
   }
 }
 </style>
