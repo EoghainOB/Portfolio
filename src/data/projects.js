@@ -101,7 +101,7 @@ export const projects = [
     title: "Milk E-Way Milk Store",
     image: "/images/projects/milkeway.jpeg",
     description:
-      "This was a fun project to work on. I created a 'Milk Store', which contains 99 different types of Milk for sale. The site is made with Typescript on the front and backend and uses Express to interact with the MongoDB, which contains the products. The site integrates pagination as well as filtering and search and each product has its own page with dedicated URL. The user can select the quantity of milk using the slider and it can be added to the cart. The cart is very basic and is my first time creating one and it features the ability to update the cart by deleting the items.",
+      "This was a fun project to work on. I created a 'Milk Store', which contains 99 different types of Milk for sale. The site is made with Typescript on the front and originally had a backend that uses Express to interact with the MongoDB, which contains the products. The site integrates pagination as well as filtering and search and each product has its own page. The user can select the quantity of milk using the slider and add it to the cart. The simple cart features the ability to update the cart by deleting the items.",
     workingUrl: "https://milk-store.vercel.app/",
     stack: [
       "react",
