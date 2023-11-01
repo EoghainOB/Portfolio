@@ -108,6 +108,28 @@ export default {
   padding: 0px 3px;
 }
 
+@media only screen and (min-width: 470px) {
+  .stackLogos img {
+    height: 74px;
+  }
+}
+
+@media only screen and (min-width: 535px) {
+  .stackLogos img {
+    height: 86px;
+  }
+}
+@media only screen and (min-width: 596px) {
+  .stackLogos img {
+    height: 66px;
+  }
+}
+@media only screen and (min-width: 680px) {
+  .stackLogos img {
+    height: 80px;
+  }
+}
+
 @media only screen and (min-width: 768px) {
   .stackBody {
     border-top-left-radius: 10px;
