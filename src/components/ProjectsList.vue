@@ -107,7 +107,9 @@ h2 {
 .stack img {
   height: 25px;
 }
-
+.projectLinks P {
+  line-height: 1em;
+}
 .projectLinks a {
   color: black;
   font-weight: bold;

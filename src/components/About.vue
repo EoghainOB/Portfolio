@@ -31,9 +31,8 @@ h2 {
 }
 
 .invert {
-  color: black;
-  background-color: white;
-  padding: 0px 5px;
+  border-bottom: solid 2px #fbff00;
+  padding: 0px 3px;
 }
 
 .profileImage img {
