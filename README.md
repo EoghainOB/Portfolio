@@ -4,7 +4,7 @@ I used `Vue` to create my personal portfolio site and hosted it on `Vercel`. I s
 
 You can view the site here: <a href="https://www.eoghain.com">`www.eoghain.com`</a>
 
-![eoghaindotcom](https://github.com/EoghainOB/Portfolio/assets/110406695/ac5df62a-416b-4ede-a463-32afb2d54ad0)
+![eoghaindotcom](https://github.com/EoghainOB/Portfolio/assets/110406695/8fb97579-b484-4ee4-9994-ef552aa10486)
 
 <i>This project is made using: </i>
 
