@@ -134,8 +134,8 @@ export default defineComponent({
 }
 
 .cardImage img {
-  border-top-left-radius: 10px;
-  border-top-right-radius: 10px;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
 }
 
 .carousel__slide {
@@ -162,6 +162,11 @@ export default defineComponent({
 @media only screen and (min-width: 768px) {
   .carousel__slide {
     padding: 10px;
+  }
+
+  .cardImage img {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
   }
 
   .carousel__prev,
