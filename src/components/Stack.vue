@@ -57,7 +57,7 @@
         <span class="invert">UX/UI design</span>, building and consuming
         <span class="invert">RESTful APIs</span>, and utilizing essential
         developer tools such as <span class="invert">Postman</span>,
-        <span class="invert">Git</span>, <span class="invert">Jira</span>, and
+        <span class="invert">Git</span>, <span class="invert">Jira</span> and
         <span class="invert">Figma</span>. Additionally, I'm experienced in
         Test-Driven Development (TDD) using
         <span class="invert">Mocha</span> and <span class="invert">Jest</span>.
