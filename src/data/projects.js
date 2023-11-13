@@ -18,23 +18,6 @@ export const projects = [
     repoURL: "https://github.com/EoghainOB/Countdown",
   },
   {
-    title: "Puppy Database",
-    image: "/images/projects/puppy.jpeg",
-    description:
-      "This project is a full stack application made in React using Typescript. I started by creating a basic API on the backend using a local array and populated it with sample data, in this case dogs (name, breed, DOB). I set up the routes using Express on the backend. For the front end I used React and Typescript. The user is able to add new dogs as well as edit the information of the current dogs. The image has been pulled from Unsplash using their API.",
-    workingUrl: "",
-    stack: [
-      "react",
-      "javascript",
-      "typescript",
-      "nodejs",
-      "express",
-      "html5",
-      "css3",
-    ],
-    repoURL: "https://github.com/EoghainOB/Puppy-Api-Fullstack",
-  },
-  {
     title: "Flight-Finder",
     image: "/images/projects/flightfinder.jpeg",
     description:
@@ -132,5 +115,14 @@ export const projects = [
     workingUrl: "https://www.eoghain.com/",
     stack: ["vue", "javascript", "nodejs", "html5", "css3"],
     repoURL: "https://github.com/EoghainOB/Portfolio",
+  },
+  {
+    title: "GeoMeteo Weather app",
+    image: "/images/projects/weather.jpeg",
+    description:
+      "This weather application has been made in Vue and makes use of two different APIs. The first is https://api.open-meteo.com which allows me to get detailed current and daily weather using coordinates and https://api.geoapify.com which allows me to convert the coordinates to a specific address and an address to coordinates. The app allows the user to search for weather in a specified location or use their own current location which makes use of their browsers 'navigator.geolocation' function.",
+    workingUrl: "https://weather-ten-plum-52.vercel.app/",
+    stack: ["vue", "javascript", "nodejs", "html5", "css3"],
+    repoURL: "https://github.com/EoghainOB/weather",
   },
 ];
