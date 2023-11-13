@@ -73,7 +73,7 @@ h2 {
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
-  justify-content: space-between;
+  /* justify-content: space-between; */
   margin-top: 15px;
   gap: 1em;
 }
@@ -101,6 +101,7 @@ h2 {
 
 .stack {
   display: flex;
+  justify-content: flex-start;
   gap: 0.6em;
 }
 
