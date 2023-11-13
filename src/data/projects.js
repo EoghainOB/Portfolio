@@ -120,7 +120,7 @@ export const projects = [
     title: "GeoMeteo Weather app",
     image: "/images/projects/weather.jpeg",
     description:
-      "This weather application has been made in Vue and makes use of two different APIs. The first is https://api.open-meteo.com which allows me to get detailed current and daily weather using coordinates and https://api.geoapify.com which allows me to convert the coordinates to a specific address and an address to coordinates. The app allows the user to search for weather in a specified location or use their own current location which makes use of their browsers 'navigator.geolocation' function.",
+      "This weather application has been made in Vue and makes use of two different APIs. The first allows me to get detailed current and daily weather using coordinates and the second allows me to convert the coordinates to a specific address and an address back to coordinates. The app allows the user to search for weather in a specified location or use their own current location which makes use of their browsers 'navigator.geolocation' function.",
     workingUrl: "https://weather-ten-plum-52.vercel.app/",
     stack: ["vue", "javascript", "nodejs", "html5", "css3"],
     repoURL: "https://github.com/EoghainOB/weather",
