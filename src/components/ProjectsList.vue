@@ -101,6 +101,7 @@ h2 {
 
 .stack {
   display: flex;
+  justify-content: flex-start;
   gap: 0.6em;
 }
 
