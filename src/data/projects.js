@@ -14,7 +14,7 @@ export const projects = [
     description:
       "A basic countdown timer made using React. The user enters the number in seconds and starts the countdown. The number counts down while also displaying a coloured progress bar.",
     workingUrl: "https://countdown-omega-drab.vercel.app/",
-    stack: ["react", "javascript", "nodejs", "html5", "css3"],
+    stack: ["react", "javascript", "html5", "css3"],
     repoURL: "https://github.com/EoghainOB/Countdown",
   },
   {
@@ -32,7 +32,7 @@ export const projects = [
     description:
       "For this project I created a simple application that allowed my young daughter to be able to practice maths. The user can select the type of sum they want to try, addition, subtraction, division or multiplication, as well as the level of difficulty from easy, medium and hard. When they click the start button they are presented with a sum. The user enters the answer into the field and clicks the 'Submit Answer' button. If it is correct the outline will light up green and display the next sum, if it is incorrect it will light up red and the sum will remain.",
     workingUrl: "https://maths-test-two.vercel.app/",
-    stack: ["react", "javascript", "typescript", "nodejs", "html5", "css3"],
+    stack: ["react", "javascript", "typescript", "html5", "css3"],
     repoURL: "https://github.com/EoghainOB/Maths_Test",
   },
   {
@@ -41,7 +41,7 @@ export const projects = [
     description:
       "Made in React, this application performs all the functions of a basic calculator. The user clicks the buttons to set the inputs. I wanted it to look as much like an actual calculator app as possible.",
     workingUrl: "https://calculator-liard-eight.vercel.app/",
-    stack: ["react", "javascript", "nodejs", "html5", "css3"],
+    stack: ["react", "javascript", "html5", "css3"],
     repoURL: "https://github.com/EoghainOB/Calculator",
   },
   {
@@ -68,7 +68,7 @@ export const projects = [
     description:
       "Made using React, the todos are stored in localstorage. The user can add new items to the list, mark them as done, while undo will put it back in the previous location in the list. Of course when the task has been marked as done, it can then be deleted.",
     workingUrl: "https://to-do-list-mu-lake.vercel.app/",
-    stack: ["react", "javascript", "nodejs", "html5", "css3"],
+    stack: ["react", "javascript", "html5", "css3"],
     repoURL: "https://github.com/EoghainOB/ToDo-List",
   },
   {
@@ -77,7 +77,7 @@ export const projects = [
     description:
       "This application has been made using React with Typescript. It uses the https://dummyjson.com/posts API for content and the Unsplash API for photos. The content is initially sorted into 5 groups, which are filtered by tags. The user can further refine what content is displayed using the dropdown at the top of the page which chooses only one group. This is a good display of responsive layout.",
     workingUrl: "https://tiny-blog-xi.vercel.app/",
-    stack: ["react", "javascript", "typescript", "nodejs", "html5", "css3"],
+    stack: ["react", "javascript", "typescript", "html5", "css3"],
     repoURL: "https://github.com/EoghainOB/Tiny-Blog",
   },
   {
@@ -104,7 +104,7 @@ export const projects = [
     description:
       "For this project I was asked to make use of the Rijksmuseum API and create an application that incorporates search. The user can search well known painters and their work in the input field with suggestions taken from a list of popular artists and their artwork. Users can also search for artwork by century. This queries the API and returns the results on a results page, showing the work along with the title of the piece and a link to the page of that piece of art on the Rijksmuseum website.",
     workingUrl: "https://rijks-master-angular.vercel.app/",
-    stack: ["angular", "javascript", "typescript", "nodejs", "html5", "css3"],
+    stack: ["angular", "javascript", "typescript", "html5", "css3"],
     repoURL: "https://github.com/EoghainOB/RijksMaster_Angular",
   },
   {
@@ -113,7 +113,7 @@ export const projects = [
     description:
       "I used Vue to create my personal portfolio site and hosted it on Vercel. I start with a mobile-first design in Figma as I wanted the layout to work in all major screen formats. I have integrated a carousel to display my latest project on the main page and created a separate route to display all my projects.",
     workingUrl: "https://www.eoghain.com/",
-    stack: ["vue", "javascript", "nodejs", "html5", "css3"],
+    stack: ["vue", "javascript", "html5", "css3"],
     repoURL: "https://github.com/EoghainOB/Portfolio",
   },
   {
@@ -122,7 +122,25 @@ export const projects = [
     description:
       "This weather application has been made in Vue and makes use of two different APIs. The first allows me to get detailed current and daily weather using coordinates and the second allows me to convert the coordinates to a specific address and an address back to coordinates. The app allows the user to search for weather in a specified location or use their own current location which makes use of their browsers 'navigator.geolocation' function.",
     workingUrl: "https://weather-ten-plum-52.vercel.app/",
-    stack: ["vue", "javascript", "nodejs", "html5", "css3"],
+    stack: ["vue", "javascript", "html5", "css3"],
     repoURL: "https://github.com/EoghainOB/weather",
+  },
+  {
+    title: "Living - House Listing app",
+    image: "/images/projects/living.jpeg",
+    description:
+      "This weather application has been made in Vue and makes use of two different APIs. The first allows me to get detailed current and daily weather using coordinates and the second allows me to convert the coordinates to a specific address and an address back to coordinates. The app allows the user to search for weather in a specified location or use their own current location which makes use of their browsers 'navigator.geolocation' function.",
+    workingUrl: "https://house-listing-eo.vercel.app/",
+    stack: [
+      "vue",
+      "javascript",
+      "typescript",
+      "nodejs",
+      "express",
+      "mongodb",
+      "html5",
+      "css3",
+    ],
+    repoURL: "https://github.com/EoghainOB/HouseListingEO",
   },
 ];
