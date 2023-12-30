@@ -129,7 +129,7 @@ export const projects = [
     title: "Living - House Listing app",
     image: "/images/projects/living.jpeg",
     description:
-      "This weather application has been made in Vue and makes use of two different APIs. The first allows me to get detailed current and daily weather using coordinates and the second allows me to convert the coordinates to a specific address and an address back to coordinates. The app allows the user to search for weather in a specified location or use their own current location which makes use of their browsers 'navigator.geolocation' function.",
+      "This is a House listings web application, which allows the user to view a list of houses that are currently available for sale, as well as create, edit and delete their own listings. The front end has been made with VueJS and the user can filter the houses by name or location using the search input box, while they can also filter those results by size or price. Each house has their own page with more details. The backend uses NodeJS as well as Express and is connected to a MongoDB database. The front end is hosted on Vercel, the backend on Heroku, while For image upload, they are stored on Cloudinary.",
     workingUrl: "https://house-listing-eo.vercel.app/",
     stack: [
       "vue",

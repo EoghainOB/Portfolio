@@ -12,8 +12,8 @@
     <div class="trainingList">
       <h2><b>Sept ‘96 - June ‘99</b></h2>
       <p>
-        <b>Bachelor of Arts - BA, Media Production & Management</b><br />Senior
-        College Ballyfermot (BCFE)<br />
+        <b>Studied Media Production & Management</b><br />Senior College
+        Ballyfermot (BCFE)<br />
         <i>Dublin, Ireland</i>
       </p>
     </div>
