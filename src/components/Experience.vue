@@ -2,6 +2,13 @@
   <div class="experienceBlock">
     <h1>Experienced.</h1>
     <div class="jobList">
+      <h2><b>Jan ‘24 – Present</b></h2>
+      <p>
+        <b>Software Engineer</b><br />Nationale Nederlanden Banks<br />
+        <i>The Hague, The Netherlands</i>
+      </p>
+    </div>
+    <div class="jobList">
       <h2><b>Jan ‘23 – June ‘23</b></h2>
       <p>
         <b>Full Stack JavaScript developer / Consultant</b><br />School of
