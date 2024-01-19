@@ -4,8 +4,8 @@
     <div class="jobList">
       <h2><b>Jan ‘24 – Present</b></h2>
       <p>
-        <b>Software Engineer</b><br />Nationale Nederlanden Bank<br />
-        <i>The Hague, The Netherlands</i>
+        <b>Software Engineer</b><br />Nationale Nederlanden - NN Bank<br />
+        <i>Den Haag, The Netherlands</i>
       </p>
     </div>
     <div class="jobList">
